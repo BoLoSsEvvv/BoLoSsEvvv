@@ -1,11 +1,11 @@
-Hi 👋 My name is Bogdan
+Привет 👋 Меня зовут Богдан
 =======================
 
-I'am C# programmer
+Я C# программист
 ------------------
 
-*   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [bolossev@mail.ru](mailto:bolossev@mail.ru)
+*   🌍  Нахожусь в Москве
+*   ✉️  Вы можете со мной связаться тут: [[ciplenokz](https://t.me/ciplenokz)
 
 ### Skills 
 <p align="left">
