@@ -4,10 +4,6 @@
 Я C#/Python программист
 ------------------
 
-*   🌍  Нахожусь в Москве
-*   🎓  Студент колледжа IThub
-*   ✉️  Вы можете связаться со мной тут: [capycapybik@proton.me](mailto:capycapybik@proton.me)
-
 ### Skills 
 
 <p align="left">
